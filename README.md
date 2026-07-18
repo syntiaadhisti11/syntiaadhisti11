@@ -32,14 +32,13 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 ### ### /04 STATS://
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syntiaadhisti11&show_icons=true&theme=rosepine&title_color=ec4899&icon_color=ec4899&text_color=e0def4&bg_color=191724&hide_border=true&count_private=true" alt="GitHub Stats" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syntiaadhisti11&layout=compact&theme=rosepine&title_color=ec4899&icon_color=ec4899&text_color=e0def4&bg_color=191724&hide_border=true" alt="Top Languages" height="150px" />
+<img src="https://github-readme-stats.vercel.app/api?username=syntiaadhisti11&show_icons=true&theme=dracula&title_color=ec4899&icon_color=ec4899&text_color=f8f8f2&bg_color=1e1e2e&hide_border=true&count_private=true" alt="GitHub Stats" height="150px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syntiaadhisti11&layout=compact&theme=dracula&title_color=ec4899&icon_color=ec4899&text_color=f8f8f2&bg_color=1e1e2e&hide_border=true" alt="Top Languages" height="150px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syntiaadhisti11&theme=rosepine&ring=ec4899&fire=ec4899&sideNums=e0def4&sideLabels=e0def4" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=syntiaadhisti11&theme=black-ice&ring=ec4899&fire=ec4899&currStreakNum=ec4899&sideNums=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### ### /05 [CONNECT]
