@@ -4,8 +4,8 @@
   
   <br>
 
-  <!-- GIF Animasi (Sudah Diperbesar) -->
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZodWQzbXQ1MHd0NGh5Y2VhOXRyNnZtZnFkN3Zzb2YwcTJ5dWQzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Iyb8RamvYSRyYTWX19/giphy.gif" width="220px" alt="Coding Animation" />
+  <!-- GIF Anime Kamu (Memanggil file lokal di repositori agar aman) -->
+  <img src="anime-profile.gif" width="220px" alt="Anime Coding Cat" />
 
   <!-- Efek Mengetik Animasi (Lebar Diperbesar agar Tidak Terpotong) -->
   <p align="center">
@@ -55,6 +55,13 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 ---
 
 ### ### /03 STATS://
+
+<!-- GitHub Trophies yang Sudah Diperbaiki Kodenya -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=syntiaadhisti11&theme=dracula&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=syntiaadhisti11&show_icons=true&theme=dracula&title_color=ec4899&icon_color=ec4899&text_color=f8f8f2&bg_color=1e1e2e&hide_border=true&count_private=true" />
