@@ -4,7 +4,7 @@
   <br>
   
   <!-- Pixel Cat Sprite (Header) -->
-  <img src="https://raw.githubusercontent.com/RohanVDixit/RohanVDixit/master/assets/cat.gif" width="100px" alt="Pixel Cat">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5Y2N0M281b3gwbWNhcHh5cGp3bGRnaHB1Z3BtYW42YmdjZXc4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="70px" alt="Pixel Cat">
 
   <h2>AI Enthusiast | Full Stack Learner | UI/UX Lover</h2>
   
@@ -62,7 +62,7 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
 | GitHub Overview | Top Languages |
 | :---: | :---: |
-| ![](https://github-readme-stats.vercel.app/api?username=syntiaadhisti11&show_icons=true&theme=dracula&title_color=ec4899&icon_color=ec4899&text_color=f8f8f2&bg_color=1e1e2e&hide_border=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syntiaadhitting11&layout=compact&theme=dracula&title_color=ec4899&icon_color=ec4899&text_color=f8f8f2&bg_color=1e1e2e&hide_border=true) |
+| ![](https://github-readme-stats.vercel.app/api?username=syntiaadhisti11&show_icons=true&theme=dracula&title_color=ec4899&icon_color=ec4899&text_color=f8f8f2&bg_color=1e1e2e&hide_border=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syntiaadhisti11&layout=compact&theme=dracula&title_color=ec4899&icon_color=ec4899&text_color=f8f8f2&bg_color=1e1e2e&hide_border=true) |
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=syntiaadhisti11&theme=black-ice&ring=ec4899&fire=ec4899&currStreakNum=ec4899&sideNums=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
@@ -79,10 +79,5 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 ---
 
 <div align="center">
-  <!-- Pixel Cat Running Sprite (Footer) -->
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/images/running_cat.gif" width="80px" alt="Running Pixel Cat">
-  
-  <br>
-  
   <code>SYSTEM STATUS: ACTIVE // CONTINUOUSLY LEARNING</code>
 </div>
