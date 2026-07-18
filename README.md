@@ -75,7 +75,7 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
 *   **LinkedIn:** [linkedin.com/in/syntia-adhisti](https://www.linkedin.com/in/syntia-adhisti-58a078406)
 *   **Instagram:** [@syntiaadhisti](https://www.instagram.com/syntiaadhisti/)
-*   **Email:** `alamat_email_kamu@gmail.com`
+*   **Email:** `syntiaadhisti11@gmail.com`
 
 ---
 
