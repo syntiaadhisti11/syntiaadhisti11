@@ -54,18 +54,7 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
 ---
 
-### ### /03 (SOLUTIONS)
-
-*   💾 **GlowSkin AI** · `[ Skin Condition Analysis ]`
-*   💾 **Hoax Detector AI** · `[ ML-Powered Content Verification ]`
-*   💾 **CyberText AI** · `[ Phishing & Scam Classification ]`
-*   💾 **EcoSmart AI** · `[ Environmental Education Platform ]`
-*   💾 **Riau FoodMap** · `[ Agricultural Data Visualization ]`
-*   💾 **Smart Garden IoT** · `[ Automated IoT System ]`
-
----
-
-### ### /04 STATS://
+### ### /03 STATS://
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=syntiaadhisti11&show_icons=true&theme=dracula&title_color=ec4899&icon_color=ec4899&text_color=f8f8f2&bg_color=1e1e2e&hide_border=true&count_private=true" />
@@ -78,7 +67,7 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
 ---
 
-### ### /05 [CONNECT]
+### ### /04 [CONNECT]
 
 <p align="center">
   <a href="https://www.linkedin.com/in/syntia-adhisti-58a078406" target="_blank">
