@@ -39,7 +39,6 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=syntiaadhisti11&theme=black-ice&ring=ec4899&fire=ec4899&currStreakNum=ec4899&sideNums=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
 </p>
----
 
 ### ### /05 [CONNECT]
 
