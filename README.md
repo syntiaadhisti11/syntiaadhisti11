@@ -4,10 +4,10 @@
   
   <br>
 
-  <!-- GIF Animasi (Sudah Diperbesar) -->
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZodWQzbXQ1MHd0NGh5Y2VhOXRyNnZtZnFkN3Zzb2YwcTJ5dWQzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Iyb8RamvYSRyYTWX19/giphy.gif" width="220px" alt="Coding Animation" />
+  <!-- GIF Anime Kamu -->
+  <img src="LINK_GIF_ANIME_KAMU_YANG_TRANSPARAN.gif" width="220px" alt="Anime Coding Cat" />
 
-  <!-- Efek Mengetik Animasi (Lebar Diperbesar agar Tidak Terpotong) -->
+  <!-- Efek Mengetik Animasi untuk Subtitle -->
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=AI+Enthusiast;Full+Stack+Learner;UI%2FUX+Lover" alt="Typing SVG" />
   </p>
@@ -23,12 +23,12 @@
 
 ---
 
-### ### /01 >_ INTRO
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=EC4899&width=300&lines=/>_01+INTRO" alt="Intro" />
 Hello, I'm an Informatics student dedicated to building intelligent, impactful applications. I bridge the gap between complex Artificial Intelligence / Machine Learning and intuitive, beautiful Full Stack user experiences.
 
 ---
 
-### ### /02 {CODE__STACK}
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=EC4899&width=300&lines=/>_02+CODE_STACK" alt="Code Stack" />
 
 *   **AI & DATA:**
     ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -54,7 +54,25 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
 ---
 
-### ### /03 STATS://
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=EC4899&width=300&lines=/>_03+SOLUTIONS" alt="Solutions" />
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="22" /> **GlowSkin AI** : `Skin Condition Analysis`  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="22" /> **Hoax Detector AI** : `ML-Powered Content Verification`  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="22" /> **CyberText AI** : `Phishing & Scam Classification`  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="22" /> **EcoSmart AI** : `Environmental Education Platform`  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Map.png" width="22" /> **Riau FoodMap** : `Agricultural Data Visualization`  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="22" /> **Smart Garden IoT** : `Automated IoT System`  
+
+---
+
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=EC4899&width=300&lines=/>_04+STATS://" alt="Stats" />
+
+<!-- Deretan Trophy (Piala) Berdasarkan Pencapaian GitHub Kamu -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=syntiaadhisti11&theme=dracula&no-bg=true&no-frame=true&column=6&margin-w=15&title_color=ec4899" alt="GitHub Trophies" />
+</p>
+
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=syntiaadhisti11&show_icons=true&theme=dracula&title_color=ec4899&icon_color=ec4899&text_color=f8f8f2&bg_color=1e1e2e&hide_border=true&count_private=true" />
@@ -67,7 +85,7 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
 ---
 
-### ### /04 [CONNECT]
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=EC4899&width=300&lines=/>_05+CONNECT" alt="Connect" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/syntia-adhisti-58a078406" target="_blank">
