@@ -4,10 +4,10 @@
   
   <br>
 
-  <!-- GIF Anime Kamu (Membaca langsung dari file yang kamu upload di repo) -->
-  <img src="anime-profile.gif" width="220px" alt="Anime Coding Cat" />
+  <!-- GIF Animasi (Sudah Diperbesar) -->
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZodWQzbXQ1MHd0NGh5Y2VhOXRyNnZtZnFkN3Zzb2YwcTJ5dWQzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Iyb8RamvYSRyYTWX19/giphy.gif" width="220px" alt="Coding Animation" />
 
-  <!-- Efek Mengetik Animasi untuk Subtitle -->
+  <!-- Efek Mengetik Animasi (Lebar Diperbesar agar Tidak Terpotong) -->
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=AI+Enthusiast;Full+Stack+Learner;UI%2FUX+Lover" alt="Typing SVG" />
   </p>
@@ -23,12 +23,12 @@
 
 ---
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=EC4899&width=300&lines=/>_01+INTRO" alt="Intro" />
+### ### /01 >_ INTRO
 Hello, I'm an Informatics student dedicated to building intelligent, impactful applications. I bridge the gap between complex Artificial Intelligence / Machine Learning and intuitive, beautiful Full Stack user experiences.
 
 ---
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=EC4899&width=300&lines=/>_02+CODE_STACK" alt="Code Stack" />
+### ### /02 {CODE__STACK}
 
 *   **AI & DATA:**
     ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -54,14 +54,7 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
 ---
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=EC4899&width=300&lines=/>_03+STATS://" alt="Stats" />
-
-<!-- Deretan Trophy (Piala) Berdasarkan Pencapaian GitHub Kamu -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syntiaadhisti11&theme=dracula&no-bg=true&no-frame=true&column=6&margin-w=15&title_color=ec4899" alt="GitHub Trophies" />
-</p>
-
-<br>
+### ### /03 STATS://
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=syntiaadhisti11&show_icons=true&theme=dracula&title_color=ec4899&icon_color=ec4899&text_color=f8f8f2&bg_color=1e1e2e&hide_border=true&count_private=true" />
@@ -74,14 +67,14 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
 ---
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=EC4899&width=300&lines=/>_04+CONNECT" alt="Connect" />
+### ### /04 [CONNECT]
 
 <p align="center">
   <a href="https://www.linkedin.com/in/syntia-adhisti-58a078406" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/syntiaadhisti/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=animation&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>&nbsp;&nbsp;
   <a href="mailto:syntiaadhisti11@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
