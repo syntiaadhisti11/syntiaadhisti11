@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ec4899&height=120&section=header&text=SYNTIA%20ADHISTI&fontSize=40&fontColor=ffffff&fontAlign=80&animation=fadeIn" width="100%" />
   
   <br>
-  
-  <!-- Pixel Cat Sprite (Header) -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5Y2N0M281b3gwbWNhcHh5cGp3bGRnaHB1Z3BtYW42YmdjZXc4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="70px" alt="Pixel Cat">
+
+  <!-- Kucing Pixel Animasi (Metode Kompatibilitas Tinggi) -->
+  <img src="https://run.mocky.io/v3/ba0d7a64-eb54-4a47-a859-99bb9953d105" width="120px" alt="Pixel Cat" onerror="this.onerror=null;this.src='https://assets.website-files.com/5e51c674258c10538d32f4e3/5e5927361ee85e13cb90a996_peep-38.svg';" />
 
   <h2>AI Enthusiast | Full Stack Learner | UI/UX Lover</h2>
   
@@ -28,7 +28,7 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
     ![](https://img.shields.io/badge/Machine__Learning-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white)
     ![](https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white)
     ![](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-    ![](https://img.shields.io/square/FAISS-0052CC?style=flat-square)
+    ![](https://img.shields.io/badge/FAISS-0052CC?style=flat-square&logo=meta&logoColor=white)
     ![](https://img.shields.io/badge/Computer__Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 *   **FRONTEND:**
@@ -60,9 +60,10 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
 ### ### /04 STATS://
 
-| GitHub Overview | Top Languages |
-| :---: | :---: |
-| ![](https://github-readme-stats.vercel.app/api?username=syntiaadhisti11&show_icons=true&theme=dracula&title_color=ec4899&icon_color=ec4899&text_color=f8f8f2&bg_color=1e1e2e&hide_border=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syntiaadhisti11&layout=compact&theme=dracula&title_color=ec4899&icon_color=ec4899&text_color=f8f8f2&bg_color=1e1e2e&hide_border=true) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syntiaadhisti11&show_icons=true&theme=dracula&title_color=ec4899&icon_color=ec4899&text_color=f8f8f2&bg_color=1e1e2e&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syntiaadhisti11&layout=compact&theme=dracula&title_color=ec4899&icon_color=ec4899&text_color=f8f8f2&bg_color=1e1e2e&hide_border=true" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=syntiaadhisti11&theme=black-ice&ring=ec4899&fire=ec4899&currStreakNum=ec4899&sideNums=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
@@ -72,8 +73,8 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
 ### ### /05 [CONNECT]
 
-*   **LinkedIn:** [linkedin.com/in/username_kamu](https://linkedin.com/in/username_kamu)
-*   **Instagram:** [@username_kamu](https://instagram.com/username_kamu)
+*   **LinkedIn:** [linkedin.com/in/Syntia Adhisti](www.linkedin.com/in/syntia-adhisti-58a078406)
+*   **Instagram:** [syntiaadhisti](https://www.instagram.com/syntiaadhisti/)
 *   **Email:** `alamat_email_kamu@gmail.com`
 
 ---
