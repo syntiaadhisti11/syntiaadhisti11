@@ -1,5 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ec4899&height=120&section=header&text=SYNTIA%20ADHISTI&fontSize=40&fontColor=ffffff&fontAlign=80&animation=fadeIn" width="100%" />
+  
+  <br>
+  
+  <!-- Pixel Cat Sprite (Header) -->
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/20265110543669.560e6e73715c0.gif" width="60px" alt="Pixel Cat">
+
   <h2>AI Enthusiast | Full Stack Learner | UI/UX Lover</h2>
   
   <p align="center">
@@ -73,5 +79,10 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 ---
 
 <div align="center">
+  <!-- Pixel Cat Sprite (Footer) -->
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/20265110543669.560e6e73715c0.gif" width="30px" alt="Pixel Cat Small">
+  
+  <br>
+  
   <code>SYSTEM STATUS: ACTIVE // CONTINUOUSLY LEARNING</code>
 </div>
