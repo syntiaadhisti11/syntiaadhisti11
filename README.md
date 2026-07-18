@@ -3,8 +3,8 @@
   
   <br>
 
-  <!-- Kucing Pixel Animasi (Metode Kompatibilitas Tinggi) -->
-  <img src="https://run.mocky.io/v3/ba0d7a64-eb54-4a47-a859-99bb9953d105" width="120px" alt="Pixel Cat" onerror="this.onerror=null;this.src='https://assets.website-files.com/5e51c674258c10538d32f4e3/5e5927361ee85e13cb90a996_peep-38.svg';" />
+  <!-- Kucing Pixel Animasi - Menggunakan CDN Giphy Resmi GitHub -->
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80px" alt="Pixel Cat" />
 
   <h2>AI Enthusiast | Full Stack Learner | UI/UX Lover</h2>
   
@@ -61,8 +61,8 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 ### ### /04 STATS://
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syntiaadhisti11&show_icons=true&theme=dracula&title_color=ec4899&icon_color=ec4899&text_color=f8f8f2&bg_color=1e1e2e&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syntiaadhisti11&layout=compact&theme=dracula&title_color=ec4899&icon_color=ec4899&text_color=f8f8f2&bg_color=1e1e2e&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syntiaadhisti11&show_icons=true&theme=dracula&title_color=ec4899&icon_color=ec4899&text_color=f8f8f2&bg_color=1e1e2e&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syntiaadhisti11&layout=compact&theme=dracula&title_color=ec4899&icon_color=ec4899&text_color=f8f8f2&bg_color=1e1e2e&hide_border=true" />
 </p>
 
 <p align="center">
@@ -73,8 +73,8 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
 ### ### /05 [CONNECT]
 
-*   **LinkedIn:** [linkedin.com/in/Syntia Adhisti](www.linkedin.com/in/syntia-adhisti-58a078406)
-*   **Instagram:** [syntiaadhisti](https://www.instagram.com/syntiaadhisti/)
+*   **LinkedIn:** [linkedin.com/in/syntia-adhisti](https://www.linkedin.com/in/syntia-adhisti-58a078406)
+*   **Instagram:** [@syntiaadhisti](https://www.instagram.com/syntiaadhisti/)
 *   **Email:** `alamat_email_kamu@gmail.com`
 
 ---
