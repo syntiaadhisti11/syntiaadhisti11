@@ -4,8 +4,8 @@
   
   <br>
 
-  <!-- Kucing Pixel Animasi Resmi -->
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80px" alt="Pixel Cat" />
+  <!-- Kucing Pixel Mengetik Pilihanmu -->
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZodWQzbXQ1MHd0NGh5Y2VhOXRyNnZtZnFkN3Zzb2YwcTJ5dWQzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Iyb8RamvYSRyYTWX19/giphy.gif" width="120px" alt="Coding Pixel Cat" />
 
   <!-- Efek Mengetik Animasi untuk Subtitle -->
   <p align="center">
