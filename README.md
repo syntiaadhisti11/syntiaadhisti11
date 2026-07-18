@@ -32,7 +32,7 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 ### ### /04 STATS://
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username_kamu_di_sini&show_icons=true&theme=rosepine&title_color=ec4899&icon_color=ec4899&text_color=e0def4&bg_color=191724&hide_border=true&count_private=true" alt="GitHub Stats" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syntiaadhisti11&show_icons=true&theme=rosepine&title_color=ec4899&icon_color=ec4899&text_color=e0def4&bg_color=191724&hide_border=true&count_private=true" alt="GitHub Stats" height="150px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username_kamu_di_sini&layout=compact&theme=rosepine&title_color=ec4899&icon_color=ec4899&text_color=e0def4&bg_color=191724&hide_border=true" alt="Top Languages" height="150px" />
 </p>
 
