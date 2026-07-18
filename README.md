@@ -4,8 +4,8 @@
   
   <br>
 
-  <!-- GIF Anime Kamu -->
-  <img src="LINK_GIF_ANIME_KAMU_YANG_TRANSPARAN.gif" width="220px" alt="Anime Coding Cat" />
+  <!-- GIF Anime Kamu (Membaca langsung dari file yang kamu upload di repo) -->
+  <img src="anime-profile.gif" width="220px" alt="Anime Coding Cat" />
 
   <!-- Efek Mengetik Animasi untuk Subtitle -->
   <p align="center">
@@ -54,18 +54,7 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
 ---
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=EC4899&width=300&lines=/>_03+SOLUTIONS" alt="Solutions" />
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="22" /> **GlowSkin AI** : `Skin Condition Analysis`  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="22" /> **Hoax Detector AI** : `ML-Powered Content Verification`  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="22" /> **CyberText AI** : `Phishing & Scam Classification`  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="22" /> **EcoSmart AI** : `Environmental Education Platform`  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Map.png" width="22" /> **Riau FoodMap** : `Agricultural Data Visualization`  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="22" /> **Smart Garden IoT** : `Automated IoT System`  
-
----
-
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=EC4899&width=300&lines=/>_04+STATS://" alt="Stats" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=EC4899&width=300&lines=/>_03+STATS://" alt="Stats" />
 
 <!-- Deretan Trophy (Piala) Berdasarkan Pencapaian GitHub Kamu -->
 <p align="center">
@@ -85,14 +74,14 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
 ---
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=EC4899&width=300&lines=/>_05+CONNECT" alt="Connect" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=EC4899&width=300&lines=/>_04+CONNECT" alt="Connect" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/syntia-adhisti-58a078406" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/syntiaadhisti/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=animation&logoColor=white" alt="Instagram" />
   </a>&nbsp;&nbsp;
   <a href="mailto:syntiaadhisti11@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
