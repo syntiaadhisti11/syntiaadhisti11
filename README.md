@@ -70,10 +70,10 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
   <br><br>
 
-<!-- Jalur Branch Master -->
+<!-- Relative Path -->
   <p align="center"><b>BAHASA & KETERAMPILAN YANG PALING BANYAK DIGUNAKAN</b></p>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/syntiaadhisti11/syntiaadhisti11/master/metrics_renders/github-metrics-languages.svg" width="85%" alt="Most Used Languages" />
+    <img src="./metrics_renders/github-metrics-languages.svg" width="85%" alt="Most Used Languages" />
   </p>
 
 </div>
