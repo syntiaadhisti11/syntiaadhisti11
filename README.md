@@ -66,14 +66,13 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
   <br><br>
 
-  <!-- Activity Graph (Sangat Stabil) -->
+  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=syntiaadhisti11&theme=react-dark&bg_color=0d1117&color=ec4899&line=ec4899&point=ffffff&area=true&hide_border=false&border_color=ec4899" width="100%" alt="Activity Graph" />
 
   <br><br>
 
-  <!-- GitHub Profile Summary Card (Penyedia Alternatif Anti Down) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syntiaadhisti11&theme=dracula" width="49%" alt="GitHub Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=syntiaadhisti11&theme=dracula" width="49%" alt="Top Languages" />
+  <!-- Top Languages Card (Provider Resmi - Anti Broken) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syntiaadhisti11&layout=compact&theme=dark&title_color=ec4899&icon_color=ec4899&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=ec4899" width="60%" alt="Bahasa-Bahasa Terpopuler" />
 
 </div>
 
