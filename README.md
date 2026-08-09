@@ -59,21 +59,21 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
 <div align="center">
 
-  <!-- Badges Statistik Real-time (Diperbaiki Badge 404 & Ditambahkan Profile Views) -->
+  <!-- Badges Statistik Real-time -->
   <img src="https://img.shields.io/github/followers/syntiaadhisti11?label=Followers&style=for-the-badge&color=ec4899&labelColor=0d1117" />
   <img src="https://img.shields.io/github/stars/syntiaadhisti11?label=Total%20Stars&style=for-the-badge&color=ec4899&labelColor=0d1117" />
   <img src="https://komarev.com/ghpvc/?username=syntiaadhisti11&color=ec4899&style=for-the-badge&label=PROFILE+VIEWS" />
 
   <br><br>
 
-  <!-- Streak Stats Card (Dedicated Server Demolab - Super Stabil) -->
-  <img src="https://streak-stats.demolab.com/?user=syntiaadhisti11&theme=dark&background=0d1117&border=ec4899&stroke=ec4899&ring=ec4899&fire=ec4899&currStreakNum=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=888888&hide_border=false" alt="Streak Stats" />
+  <!-- Activity Graph (Sangat Stabil) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syntiaadhisti11&theme=react-dark&bg_color=0d1117&color=ec4899&line=ec4899&point=ffffff&area=true&hide_border=false&border_color=ec4899" width="100%" alt="Activity Graph" />
 
   <br><br>
 
-  <!-- Summary Card Alternatif (Demolab Server) -->
-  <img src="https://github-readme-stats.demolab.com/api?username=syntiaadhisti11&show_icons=true&theme=dark&title_color=ec4899&icon_color=ec4899&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=ec4899&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=syntiaadhisti11&layout=compact&theme=dark&title_color=ec4899&icon_color=ec4899&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=ec4899" width="49%" alt="Top Languages" />
+  <!-- GitHub Profile Summary Card (Penyedia Alternatif Anti Down) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syntiaadhisti11&theme=dracula" width="49%" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=syntiaadhisti11&theme=dracula" width="49%" alt="Top Languages" />
 
 </div>
 
