@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/FOCUS-AI__%26__FULL__STACK-6366f1?style=flat-square" alt="Main Focus">
   </p>
   
-  <!-- Garis Pembatas Neon (Capsule Waving) -->
+  <!-- Garis Pembatas Neon -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ec4899&height=4&section=header" width="100%" />
 </div>
 
@@ -66,13 +66,31 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
   <br><br>
 
-  <!-- Activity Graph -->
+  <!-- Activity Graph (Pasti Muncul) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=syntiaadhisti11&theme=react-dark&bg_color=0d1117&color=ec4899&line=ec4899&point=ffffff&area=true&hide_border=false&border_color=ec4899" width="100%" alt="Activity Graph" />
 
   <br><br>
 
-  <!-- Most Used Languages via GitHub Metrics (Bebas Rate-Limit Vercel) -->
-  <img src="https://metrics.lecoq.io/syntiaadhisti11?template=classic&base=header%2C%20activity%2C%20community&base.indepth=false&languages=yes&languages.colors=github&languages.limit=8&languages.recent.limit=8&languages.recent.load=300&languages.sections=most-used&languages.details=percentage&config.timezone=Asia%2FJakarta" width="80%" alt="Most Used Languages" />
+  <!-- MOST USED LANGUAGES: Visual Progress Bar (SVG Static - 100% Anti Break / Garansi Muncul) -->
+  <table width="100%">
+    <tr>
+      <td align="center"><b>MOST USED LANGUAGES & SKILLS PROFILE</b></td>
+    </tr>
+    <tr>
+      <td>
+        <br>
+        <code>Python / AI Stack</code>
+        <img src="https://geps.dev/progress/85?dangerColor=ec4899&warningColor=ec4899&color=ec4899" alt="Python Progress" />
+        <code>JavaScript & React</code>
+        <img src="https://geps.dev/progress/75?dangerColor=ec4899&warningColor=ec4899&color=ec4899" alt="JS Progress" />
+        <code>HTML / CSS / UI</code>
+        <img src="https://geps.dev/progress/70?dangerColor=ec4899&warningColor=ec4899&color=ec4899" alt="HTML Progress" />
+        <code>SQL & Databases</code>
+        <img src="https://geps.dev/progress/60?dangerColor=ec4899&warningColor=ec4899&color=ec4899" alt="SQL Progress" />
+        <br>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
