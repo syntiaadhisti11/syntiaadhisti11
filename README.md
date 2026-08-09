@@ -66,17 +66,16 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
   <br><br>
 
-  <!-- Activity Graph (Pasti Muncul) -->
+  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=syntiaadhisti11&theme=react-dark&bg_color=0d1117&color=ec4899&line=ec4899&point=ffffff&area=true&hide_border=false&border_color=ec4899" width="100%" alt="Activity Graph" />
 
   <br><br>
 
-%%{init: {'theme': 'dark', 'themeVariables': { 'pie1': '#ec4899', 'pie2': '#3b82f6', 'pie3': '#f59e0b', 'pie4': '#10b981'}}}%%
-pie title MOST USED LANGUAGES & SKILLS
-    "Python / AI" : 85
-    "JavaScript & React" : 75
-    "HTML & CSS" : 70
-    "SQL / MySQL" : 60
+  <!-- Diagram Lingkaran Bahasa Terpopuler (Donut / Pie Chart SVG) -->
+  <p align="center"><b>BAHASA & KETERAMPILAN YANG PALING BANYAK DIGUNAKAN</b></p>
+  <img src="https://quickchart.io/chart?bkg=%230d1117&c={type:%27doughnut%27,data:{labels:[%27Python/AI%27,%27JavaScript%20%26%20React%27,%27HTML%20%26%20CSS%27,%27SQL/MySQL%27],datasets:[{data:[85,75,70,60],backgroundColor:[%27%23ec4899%27,%27%233b82f6%27,%27%23f59e0b%27,%27%2310b981%27]}]},options:{plugins:{legend:{labels:{color:%27%23ffffff%27,font:{size:13,weight:%27bold%27}}}}}}" width="450" alt="Diagram Bahasa Terpopuler" />
+
+</div>
 
 ---
 
