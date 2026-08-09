@@ -18,7 +18,7 @@
   </p>
   
   <!-- Garis Pembatas Beranimasi -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andrelugames/andrelugames/master/assets/line.gif" width="100%">
 </div>
 
 ---
@@ -57,19 +57,19 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 ### /03 STATS://
 
 <div align="center">
-  <!-- Trofi Achievements -->
-  <img src="https://github-profile-trophy.vercel.app/?username=syntiaadhisti11&theme=onedark&column=6&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies" />
-  
-  <br><br>
-
-  <!-- GitHub Overall Stats & Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=syntiaadhisti11&show_icons=true&theme=dark&title_color=ec4899&icon_color=ec4899&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=ec4899&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syntiaadhisti11&layout=compact&theme=dark&title_color=ec4899&icon_color=ec4899&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=ec4899" height="165" />
+  <!-- Trofi Achievements (Alternatif Server) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=syntiaadhisti11&theme=dracula&column=6&margin-w=15&no-bg=true" alt="Trophies" />
 
   <br><br>
 
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syntiaadhisti11&theme=dark&background=0d1117&border=ec4899&stroke=ec4899&ring=ec4899&fire=ec4899&currStreakNum=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=888888&hide_border=false" alt="GitHub Streak" />
+  <!-- Overall Stats & Languages (Menggunakan Mirror Server / Alt Vercel) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=syntiaadhisti11&show_icons=true&theme=dracula&title_color=ec4899&icon_color=ec4899&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=ec4899&count_private=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syntiaadhisti11&layout=compact&theme=dracula&title_color=ec4899&icon_color=ec4899&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=ec4899" height="165" />
+
+  <br><br>
+
+  <!-- Streak Stats (Alternatif Server Vercel) -->
+  <img src="https://github-readme-streak-stats-salesp0un.vercel.app/?user=syntiaadhisti11&theme=dark&background=0d1117&border=ec4899&stroke=ec4899&ring=ec4899&fire=ec4899&currStreakNum=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=888888&hide_border=false" alt="Streak Stats" />
 
   <br><br>
 
@@ -97,7 +97,7 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
 <div align="center">
   <!-- Garis Pembatas Beranimasi Bawah -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andrelugames/andrelugames/master/assets/line.gif" width="100%">
   <br>
   <code>SYSTEM STATUS: ACTIVE // CONTINUOUSLY LEARNING</code>
 </div>
