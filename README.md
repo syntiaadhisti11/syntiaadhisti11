@@ -66,14 +66,13 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
   <br><br>
 
-  <!-- Activity Graph -->
+  <!-- Activity Graph (Sudah Terbukti Berhasil di Profil Anda) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=syntiaadhisti11&theme=react-dark&bg_color=0d1117&color=ec4899&line=ec4899&point=ffffff&area=true&hide_border=false&border_color=ec4899" width="100%" alt="Activity Graph" />
 
   <br><br>
 
-  <!-- Streak Stats & Top Languages via Shields & Native SVG Badges (100% Bebas Down) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syntiaadhisti11&theme=dark&background=0D1117&border=EC4899&stroke=EC4899&ring=EC4899&fire=EC4899&currStreakNum=EC4899" width="49%" alt="GitHub Streak" />
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards/tech-stack-percentage?username=syntiaadhisti11&theme=dark" width="49%" alt="Top Languages" />
+  <!-- Top Languages / Most Used Languages (Provider Alternatif Sangat Stabil) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syntiaadhisti11&layout=compact&theme=dark&title_color=ec4899&icon_color=ec4899&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=ec4899&count_private=true" width="60%" alt="Most Used Languages" />
 
 </div>
 
