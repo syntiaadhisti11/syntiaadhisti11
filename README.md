@@ -70,10 +70,10 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
   <br><br>
 
-  <!-- Diagram Statistik Bahasa Lokal dari GitHub Action Metrics -->
-  <p align="center"><b>BAHASA & KETERAMPILAN YANG PALING BANYAK DIGUNAKAN</b></p>
+  <!-- GitHub Streak & Stats Ringkasan -->
+  <p align="center"><b>GITHUB OVERVIEW & STREAK</b></p>
   <p align="center">
-    <img src="./metrics_renders/github-metrics-languages.svg" width="85%" alt="Most Used Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=syntiaadhisti11&theme=dark&background=0d1117&ring=ec4899&fire=ec4899&currStreakLabel=ec4899&border=ec4899" alt="GitHub Streak" width="85%" />
   </p>
 
 </div>
