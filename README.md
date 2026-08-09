@@ -70,10 +70,10 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
   <br><br>
 
-  <!-- Diagram Grafik dari GitHub Action Metrics -->
+<!-- Jalur Branch Master -->
   <p align="center"><b>BAHASA & KETERAMPILAN YANG PALING BANYAK DIGUNAKAN</b></p>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/syntiaadhisti11/syntiaadhisti11/main/metrics_renders/github-metrics-languages.svg" width="85%" alt="Most Used Languages" />
+    <img src="https://raw.githubusercontent.com/syntiaadhisti11/syntiaadhisti11/master/metrics_renders/github-metrics-languages.svg" width="85%" alt="Most Used Languages" />
   </p>
 
 </div>
