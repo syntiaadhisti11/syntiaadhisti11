@@ -23,16 +23,18 @@
 
 ---
 
-<!-- SECTION 01 ANIMATED (TANPA IKON) -->
+<!-- SECTION 01 ANIMATED -->
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=EC4899&width=400&lines=%2F01+%3E_+INTRO" alt="Section 01 Intro" />
 </p>
 
-Hello, I'm an Informatics student dedicated to building intelligent, impactful applications. I bridge the gap between complex Artificial Intelligence / Machine Learning and intuitive, beautiful Full Stack user experiences.
+Hi, I'm **Syntia Adhisti**, an Informatics Engineering student with a strong passion for Artificial Intelligence, Machine Learning, and Web Development. 
+
+I thrive on turning complex algorithmic logic into seamless, human-centered digital experiences. Whether it's training data models, building modern full-stack web applications, or designing intuitive user interfaces, I am constantly exploring new technologies to engineer scalable and meaningful solutions.
 
 ---
 
-<!-- SECTION 02 ANIMATED (TANPA IKON) -->
+<!-- SECTION 02 ANIMATED -->
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=EC4899&width=400&lines=%2F02+%7BCODE__STACK%7D" alt="Section 02 Code Stack" />
 </p>
@@ -60,7 +62,7 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
 ---
 
-<!-- SECTION 03 ANIMATED (TANPA IKON) -->
+<!-- SECTION 03 ANIMATED -->
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=EC4899&width=400&lines=%2F03+STATS%3A%2F%2F" alt="Section 03 Stats" />
 </p>
@@ -89,7 +91,7 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
 ---
 
-<!-- SECTION 04 ANIMATED (TANPA IKON) -->
+<!-- SECTION 04 ANIMATED -->
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=EC4899&width=400&lines=%2F04+%5BCONNECT%5D" alt="Section 04 Connect" />
 </p>
