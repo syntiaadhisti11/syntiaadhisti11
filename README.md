@@ -71,8 +71,9 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
   <br><br>
 
-  <!-- Top Languages Card (Provider Resmi - Anti Broken) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syntiaadhisti11&layout=compact&theme=dark&title_color=ec4899&icon_color=ec4899&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=ec4899" width="60%" alt="Bahasa-Bahasa Terpopuler" />
+  <!-- Streak Stats & Top Languages via Shields & Native SVG Badges (100% Bebas Down) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syntiaadhisti11&theme=dark&background=0D1117&border=EC4899&stroke=EC4899&ring=EC4899&fire=EC4899&currStreakNum=EC4899" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards/tech-stack-percentage?username=syntiaadhisti11&theme=dark" width="49%" alt="Top Languages" />
 
 </div>
 
