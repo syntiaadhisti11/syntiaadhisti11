@@ -69,7 +69,8 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=syntiaadhisti11&theme=react-dark&bg_color=0d1117&color=ec4899&line=ec4899&point=ffffff&area=true&hide_border=false&border_color=ec4899" width="100%" alt="Activity Graph" />
 
   <br><br>
-<!-- Diagram Grafik dari GitHub Action Metrics -->
+
+  <!-- Diagram Grafik dari GitHub Action Metrics -->
   <p align="center"><b>BAHASA & KETERAMPILAN YANG PALING BANYAK DIGUNAKAN</b></p>
   <p align="center">
     <img src="https://raw.githubusercontent.com/syntiaadhisti11/syntiaadhisti11/main/metrics_renders/github-metrics-languages.svg" width="85%" alt="Most Used Languages" />
