@@ -17,8 +17,8 @@
     <img src="https://img.shields.io/badge/FOCUS-AI__%26__FULL__STACK-6366f1?style=flat-square" alt="Main Focus">
   </p>
   
-  <!-- Garis Pembatas Beranimasi -->
-  <img src="https://raw.githubusercontent.com/andrelugames/andrelugames/master/assets/line.gif" width="100%">
+  <!-- Garis Pembatas Neon (Capsule) -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ec4899&height=4&section=header" width="100%" />
 </div>
 
 ---
@@ -57,23 +57,21 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 ### /03 STATS://
 
 <div align="center">
-
-  <!-- Badges Statistik Real-time via Shields.io (Anti Failure / Tanpa Server Terpisah) -->
+  <!-- Badges Statistik Real-time Anti-404 -->
   <img src="https://img.shields.io/github/followers/syntiaadhisti11?label=Followers&style=for-the-badge&color=ec4899&labelColor=0d1117" />
   <img src="https://img.shields.io/github/stars/syntiaadhisti11?label=Total%20Stars&style=for-the-badge&color=ec4899&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/search/syntiaadhisti11/syntiaadhisti11?label=Repositories&style=for-the-badge&color=ec4899&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=syntiaadhisti11&color=ec4899&style=for-the-badge&label=PROFILE+VIEWS" />
 
   <br><br>
 
-  <!-- Activity Graph (Provider yang berbeda dan terbukti stabil) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syntiaadhisti11&theme=react-dark&bg_color=0d1117&color=ec4899&line=ec4899&point=ffffff&area=true&hide_border=false&border_color=ec4899" width="100%" alt="Activity Graph" />
+  <!-- Streak Stats Card (Server Demolab Dedicated - Sangat Stabil) -->
+  <img src="https://streak-stats.demolab.com/?user=syntiaadhisti11&theme=dark&background=0d1117&border=ec4899&stroke=ec4899&ring=ec4899&fire=ec4899&currStreakNum=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=888888&hide_border=false" alt="Streak Stats" />
 
   <br><br>
 
-  <!-- Summary Card Alternatif (Provider CodeTime/Metrics) -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=syntiaadhisti11&show_icons=true&theme=dark&title_color=ec4899&icon_color=ec4899&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=ec4899&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=syntiaadhisti11&layout=compact&theme=dark&title_color=ec4899&icon_color=ec4899&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=ec4899" width="49%" alt="Top Languages" />
-
+  <!-- Summary Card Alternatif (Server Dedicated Demolab) -->
+  <img src="https://github-readme-stats.demolab.com/api?username=syntiaadhisti11&show_icons=true&theme=dark&title_color=ec4899&icon_color=ec4899&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=ec4899&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=syntiaadhisti11&layout=compact&theme=dark&title_color=ec4899&icon_color=ec4899&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=ec4899" width="49%" alt="Top Languages" />
 </div>
 
 ---
@@ -95,8 +93,8 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 ---
 
 <div align="center">
-  <!-- Garis Pembatas Beranimasi Bawah -->
-  <img src="https://raw.githubusercontent.com/andrelugames/andrelugames/master/assets/line.gif" width="100%">
+  <!-- Garis Pembatas Wave Bawah -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ec4899&height=80&section=footer" width="100%" />
   <br>
   <code>SYSTEM STATUS: ACTIVE // CONTINUOUSLY LEARNING</code>
 </div>
