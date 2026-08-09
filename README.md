@@ -4,10 +4,10 @@
   
   <br>
 
-  <!-- GIF Animasi Maskot/Coding -->
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZodWQzbXQ1MHd0NGh5Y2VhOXRyNnZtZnFkN3Zzb2YwcTJ5dWQzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Iyb8RamvYSRyYTWX19/giphy.gif" width="220px" alt="Coding Animation" />
+  <!-- GIF Animasi Mascot -->
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZodWQzbXQ1MHd0NGh5Y2VhOXRyNnZtZnFkN3Zzb2YwcTJ5dWQzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Iyb8RamvYSRyYTWX19/giphy.gif" width="200px" alt="Coding Animation" />
 
-  <!-- Animasi Teks Mengetik -->
+  <!-- Efek Mengetik Animasi -->
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=AI+Enthusiast;Full+Stack+Learner;UI%2FUX+Lover" alt="Typing SVG" />
   </p>
@@ -16,9 +16,6 @@
     <img src="https://img.shields.io/badge/SYSTEM__STATUS-ACTIVE-ec4899?style=flat-square" alt="System Status">
     <img src="https://img.shields.io/badge/FOCUS-AI__%26__FULL__STACK-6366f1?style=flat-square" alt="Main Focus">
   </p>
-  
-  <!-- Animasi Capsule Pembatas Top -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ec4899&height=4&section=header" width="100%" />
 </div>
 
 ---
@@ -58,23 +55,13 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 ### /03 STATS:// 📊
 
 <div align="center">
-
-  <!-- Badges Statistik Real-time -->
-  <img src="https://img.shields.io/github/followers/syntiaadhisti11?label=Followers&style=for-the-badge&color=ec4899&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/stars/syntiaadhisti11?label=Total%20Stars&style=for-the-badge&color=ec4899&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/search/syntiaadhisti11/syntiaadhisti11?label=Repositories&style=for-the-badge&color=ec4899&labelColor=0d1117" />
-
+  <!-- GitHub Metrics Badge (Universal) -->
+  <img src="https://komarev.com/ghpvc/?username=syntiaadhisti11&color=ec4899&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  
   <br><br>
 
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syntiaadhisti11&theme=react-dark&bg_color=0d1117&color=ec4899&line=ec4899&point=ffffff&area=true&hide_border=false&border_color=ec4899" width="100%" alt="Activity Graph" />
-
-  <br><br>
-
-  <!-- Summary Card Alternatif -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=syntiaadhisti11&show_icons=true&theme=dark&title_color=ec4899&icon_color=ec4899&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=ec4899&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=syntiaadhisti11&layout=compact&theme=dark&title_color=ec4899&icon_color=ec4899&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=ec4899" width="49%" alt="Top Languages" />
-
+  <!-- GitHub Contribution Snake / Activity Widget Alternatif -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syntiaadhisti11&theme=dark&background=0d1117&border=ec4899&stroke=ec4899&ring=ec4899&fire=ec4899&currStreakNum=ec4899" width="80%" alt="Streak Stats" />
 </div>
 
 ---
@@ -96,7 +83,6 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 ---
 
 <div align="center">
-  <!-- Capsule Render Divider Bawah -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ec4899&height=80&section=footer" width="100%" />
   <br>
   <code>SYSTEM STATUS: ACTIVE // CONTINUOUSLY LEARNING</code>
