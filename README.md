@@ -7,7 +7,7 @@
   <!-- GIF Animasi Mascot Main -->
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZodWQzbXQ1MHd0NGh5Y2VhOXRyNnZtZnFkN3Zzb2YwcTJ5dWQzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Iyb8RamvYSRyYTWX19/giphy.gif" width="220px" alt="Coding Animation" />
 
-  <!-- Efek Mengetik Animasi -->
+  <!-- Efek Mengetik Animasi Header -->
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=AI+Enthusiast;Full+Stack+Learner;UI%2FUX+Lover" alt="Typing SVG" />
   </p>
@@ -58,19 +58,19 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
 <div align="center">
 
-  <!-- Badges Statistik Real-time -->
-  <img src="https://img.shields.io/github/followers/syntiaadhisti11?label=Followers&style=for-the-badge&color=ec4899&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/stars/syntiaadhisti11?label=Total%20Stars&style=for-the-badge&color=ec4899&labelColor=0d1117" />
-  <img src="https://komarev.com/ghpvc/?username=syntiaadhisti11&color=ec4899&style=for-the-badge&label=PROFILE+VIEWS" />
+  <!-- Penomoran & Counter Beranimasi Pink -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=1000&color=EC4899&center=true&vCenter=true&width=500&lines=%5B+PROFILE+VIEWS%3A+11+%5D;%5B+TOTAL+STARS%3A+07+%5D;%5B+FOLLOWERS%3A+02+%5D" alt="Animated Pink Stats" />
+  </p>
 
-  <br><br>
+  <br>
 
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=syntiaadhisti11&theme=react-dark&bg_color=0d1117&color=ec4899&line=ec4899&point=ffffff&area=true&hide_border=false&border_color=ec4899" width="100%" alt="Activity Graph" />
 
   <br><br>
 
-  <!-- GitHub Streak & Stats Ringkasan -->
+  <!-- GitHub Streak -->
   <p align="center"><b>GITHUB OVERVIEW & STREAK</b></p>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=syntiaadhisti11&theme=dark&background=0d1117&ring=ec4899&fire=ec4899&currStreakLabel=ec4899&border=ec4899" alt="GitHub Streak" width="85%" />
