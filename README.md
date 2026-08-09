@@ -40,9 +40,8 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
   ![](https://img.shields.io/badge/Computer__Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 * **FRONTEND:**
+  ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-  ![](https://img.shields.io/badge/React__Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-  ![](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
   ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   ![](https://img.shields.io/badge/UI/UX__Design-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
@@ -71,9 +70,9 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
   <br><br>
 
-  <!-- Diagram Lingkaran Bahasa Terpopuler (Donut / Pie Chart SVG) -->
-  <p align="center"><b>BAHASA & KETERAMPILAN YANG PALING BANYAK DIGUNAKAN</b></p>
-  <img src="https://quickchart.io/chart?bkg=%230d1117&c={type:%27doughnut%27,data:{labels:[%27Python/AI%27,%27JavaScript%20%26%20React%27,%27HTML%20%26%20CSS%27,%27SQL/MySQL%27],datasets:[{data:[85,75,70,60],backgroundColor:[%27%23ec4899%27,%27%233b82f6%27,%27%23f59e0b%27,%27%2310b981%27]}]},options:{plugins:{legend:{labels:{color:%27%23ffffff%27,font:{size:13,weight:%27bold%27}}}}}}" width="450" alt="Diagram Bahasa Terpopuler" />
+  <!-- Grafik Bahasa Asli GitHub (Generated oleh GitHub Action) -->
+  <p align="center"><b>MOST USED LANGUAGES & SKILLS</b></p>
+  <img src="https://raw.githubusercontent.com/syntiaadhisti11/syntiaadhisti11/main/github-metrics-languages.svg" width="85%" alt="Most Used Languages" />
 
 </div>
 
