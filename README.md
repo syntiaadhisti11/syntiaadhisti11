@@ -57,28 +57,19 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 ### /03 STATS://
 
 <div align="center">
-  <!-- Trofi Achievements -->
-  <a href="https://github.com/syntiaadhisti11">
-    <img src="https://github-profile-trophy.vercel.app/?username=syntiaadhisti11&theme=dracula&column=6&margin-w=15&no-bg=true" alt="Trofi GitHub" />
-  </a>
+  <!-- Activity Graph (Paling Stabil & Anti Error) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syntiaadhisti11&theme=react-dark&bg_color=0d1117&color=ec4899&line=ec4899&point=ffffff&area=true&hide_border=false&border_color=ec4899" width="100%" alt="Activity Graph" />
 
   <br><br>
 
-  <!-- Activity Graph (Resilient & Pink Theme) -->
-  <a href="https://github.com/syntiaadhisti11">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=syntiaadhisti11&theme=react-dark&bg_color=0d1117&color=ec4899&line=ec4899&point=ffffff&area=true&hide_border=false&border_color=ec4899" width="100%" alt="Grafik Aktivitas GitHub" />
-  </a>
+  <!-- Streak Stats (Server Dedicated demolab.com - Anti Rate Limit) -->
+  <img src="https://streak-stats.demolab.com/?user=syntiaadhisti11&theme=dark&background=0d1117&border=ec4899&stroke=ec4899&ring=ec4899&fire=ec4899&currStreakNum=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=888888&hide_border=false" alt="Streak Stats" />
 
   <br><br>
 
-  <!-- Overall Stats & Languages (Mirror Deployment) -->
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=syntiaadhisti11&show_icons=true&theme=dark&title_color=ec4899&icon_color=ec4899&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=ec4899&count_private=true" height="165" alt="Statistik GitHub" />
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=syntiaadhisti11&layout=compact&theme=dark&title_color=ec4899&icon_color=ec4899&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=ec4899" height="165" alt="Bahasa Terbanyak" />
-
-  <br><br>
-
-  <!-- Streak Stats (Alternative Host) -->
-  <img src="https://github-readme-streak-stats-salesp0un.vercel.app/?user=syntiaadhisti11&theme=dark&background=0d1117&border=ec4899&stroke=ec4899&ring=ec4899&fire=ec4899&currStreakNum=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=888888&hide_border=false" alt="Statistik Streak" />
+  <!-- GitHub Overall Stats (Demolab Server) -->
+  <img src="https://github-readme-stats.demolab.com/api?username=syntiaadhisti11&show_icons=true&theme=dark&title_color=ec4899&icon_color=ec4899&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=ec4899&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=syntiaadhisti11&layout=compact&theme=dark&title_color=ec4899&icon_color=ec4899&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=ec4899" height="165" alt="Top Languages" />
 </div>
 
 ---
