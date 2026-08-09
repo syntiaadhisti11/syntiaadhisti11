@@ -70,10 +70,10 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
   <br><br>
 
-<!-- Relative Path -->
+<!-- Direct API -->
   <p align="center"><b>BAHASA & KETERAMPILAN YANG PALING BANYAK DIGUNAKAN</b></p>
   <p align="center">
-    <img src="./metrics_renders/github-metrics-languages.svg" width="85%" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syntiaadhisti11&layout=donut&theme=react&bg_color=0d1117&title_color=ec4899&text_color=ffffff&border_color=ec4899&hide_border=false" alt="Most Used Languages" />
   </p>
 
 </div>
