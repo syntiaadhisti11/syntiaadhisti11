@@ -71,23 +71,14 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
   <br><br>
 
- <!-- MOST USED LANGUAGES: Clean Modern Layout (Pink Theme) -->
-  <br>
-  <p align="center"><b>MOST USED LANGUAGES & SKILLS PROFILE</b></p>
+%%{init: {'theme': 'dark', 'themeVariables': { 'pie1': '#ec4899', 'pie2': '#3b82f6', 'pie3': '#f59e0b', 'pie4': '#10b981'}}}%%
+pie title MOST USED LANGUAGES & SKILLS
+    "Python / AI" : 85
+    "JavaScript & React" : 75
+    "HTML & CSS" : 70
+    "SQL / MySQL" : 60
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://geps.dev/progress/85?dangerColor=ec4899&warningColor=ec4899&color=ec4899" width="300" />
-    <br><br>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://geps.dev/progress/75?dangerColor=ec4899&warningColor=ec4899&color=ec4899" width="300" />
-    <br><br>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://geps.dev/progress/70?dangerColor=ec4899&warningColor=ec4899&color=ec4899" width="300" />
-    <br><br>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://geps.dev/progress/60?dangerColor=ec4899&warningColor=ec4899&color=ec4899" width="300" />
-  </p>
+---
 
 ### /04 [CONNECT] 📬
 
