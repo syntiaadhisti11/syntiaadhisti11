@@ -23,13 +23,19 @@
 
 ---
 
-### /01 >_ INTRO ⚡
+<!-- SECTION 01 ANIMATED -->
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=EC4899&width=400&lines=%2F01+%3E_+INTRO+%E2%9A%A1" alt="Section 01 Intro" />
+</p>
 
 Hello, I'm an Informatics student dedicated to building intelligent, impactful applications. I bridge the gap between complex Artificial Intelligence / Machine Learning and intuitive, beautiful Full Stack user experiences.
 
 ---
 
-### /02 {CODE__STACK} 🛠️
+<!-- SECTION 02 ANIMATED -->
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=EC4899&width=400&lines=%2F02+%7BCODE__STACK%7D+%F0%9F%9B%A0%EF%B8%8F" alt="Section 02 Code Stack" />
+</p>
 
 * **AI & DATA:**
   ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -54,7 +60,10 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
 ---
 
-### /03 STATS:// 📊
+<!-- SECTION 03 ANIMATED -->
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=EC4899&width=400&lines=%2F03+STATS%3A%2F%2F+%F0%9F%90%8A" alt="Section 03 Stats" />
+</p>
 
 <div align="center">
 
@@ -80,7 +89,10 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
 ---
 
-### /04 [CONNECT] 📬
+<!-- SECTION 04 ANIMATED -->
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=EC4899&width=400&lines=%2F04+%5BCONNECT%5D+%F0%9F%93%AC" alt="Section 04 Connect" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/syntia-adhisti-58a078406" target="_blank">
