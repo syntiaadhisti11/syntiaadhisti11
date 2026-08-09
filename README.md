@@ -4,10 +4,10 @@
   
   <br>
 
-  <!-- Mascot / Animasi Utama Melayang -->
+  <!-- GIF Animasi Maskot/Coding -->
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZodWQzbXQ1MHd0NGh5Y2VhOXRyNnZtZnFkN3Zzb2YwcTJ5dWQzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Iyb8RamvYSRyYTWX19/giphy.gif" width="220px" alt="Coding Animation" />
 
-  <!-- Efek Mengetik Animasi -->
+  <!-- Animasi Teks Mengetik -->
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=AI+Enthusiast;Full+Stack+Learner;UI%2FUX+Lover" alt="Typing SVG" />
   </p>
@@ -17,23 +17,19 @@
     <img src="https://img.shields.io/badge/FOCUS-AI__%26__FULL__STACK-6366f1?style=flat-square" alt="Main Focus">
   </p>
   
-  <!-- Garis Pembatas Neon Berjalan -->
-  <img src="https://raw.githubusercontent.com/andrelugames/andrelugames/master/assets/line.gif" width="100%">
+  <!-- Animasi Capsule Pembatas Top -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ec4899&height=4&section=header" width="100%" />
 </div>
 
 ---
 
-### /01 >_ INTRO <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30px">
-
-<img align="right" src="https://raw.githubusercontent.com/mdehaan7/mdehaan7/main/assets/hi.gif" width="120px">
+### /01 >_ INTRO ⚡
 
 Hello, I'm an Informatics student dedicated to building intelligent, impactful applications. I bridge the gap between complex Artificial Intelligence / Machine Learning and intuitive, beautiful Full Stack user experiences.
 
-<br clear="both"/>
-
 ---
 
-### /02 {CODE__STACK} <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-6156-402d-a28d-177ed2153528.gif" width="30px">
+### /02 {CODE__STACK} 🛠️
 
 * **AI & DATA:**
   ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -59,14 +55,9 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
 ---
 
-### /03 STATS:// <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b380-608611182270.gif" width="30px">
+### /03 STATS:// 📊
 
 <div align="center">
-
-  <!-- Animasi Kucing / Maskot Berjalan di Atas Statistik -->
-  <img src="https://raw.githubusercontent.com/k2052/k2052/main/assets/cat.gif" width="150px" alt="Running Cat" />
-
-  <br>
 
   <!-- Badges Statistik Real-time -->
   <img src="https://img.shields.io/github/followers/syntiaadhisti11?label=Followers&style=for-the-badge&color=ec4899&labelColor=0d1117" />
@@ -88,7 +79,7 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
 ---
 
-### /04 [CONNECT] <img src="https://user-images.githubusercontent.com/74038190/212284105-0210ee4a-e490-48e0-b633-bd54be94b4e3.gif" width="30px">
+### /04 [CONNECT] 📬
 
 <p align="center">
   <a href="https://www.linkedin.com/in/syntia-adhisti-58a078406" target="_blank">
@@ -105,11 +96,8 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 ---
 
 <div align="center">
-  <!-- Animasi Footer Karakter Berjalan -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40px">
-  <br>
-  <!-- Garis Pembatas Beranimasi Bawah -->
-  <img src="https://raw.githubusercontent.com/andrelugames/andrelugames/master/assets/line.gif" width="100%">
+  <!-- Capsule Render Divider Bawah -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ec4899&height=80&section=footer" width="100%" />
   <br>
   <code>SYSTEM STATUS: ACTIVE // CONTINUOUSLY LEARNING</code>
 </div>
