@@ -71,30 +71,23 @@ Hello, I'm an Informatics student dedicated to building intelligent, impactful a
 
   <br><br>
 
-  <!-- MOST USED LANGUAGES: Visual Progress Bar (SVG Static - 100% Anti Break / Garansi Muncul) -->
-  <table width="100%">
-    <tr>
-      <td align="center"><b>MOST USED LANGUAGES & SKILLS PROFILE</b></td>
-    </tr>
-    <tr>
-      <td>
-        <br>
-        <code>Python / AI Stack</code>
-        <img src="https://geps.dev/progress/85?dangerColor=ec4899&warningColor=ec4899&color=ec4899" alt="Python Progress" />
-        <code>JavaScript & React</code>
-        <img src="https://geps.dev/progress/75?dangerColor=ec4899&warningColor=ec4899&color=ec4899" alt="JS Progress" />
-        <code>HTML / CSS / UI</code>
-        <img src="https://geps.dev/progress/70?dangerColor=ec4899&warningColor=ec4899&color=ec4899" alt="HTML Progress" />
-        <code>SQL & Databases</code>
-        <img src="https://geps.dev/progress/60?dangerColor=ec4899&warningColor=ec4899&color=ec4899" alt="SQL Progress" />
-        <br>
-      </td>
-    </tr>
-  </table>
+ <!-- MOST USED LANGUAGES: Clean Modern Layout (Pink Theme) -->
+  <br>
+  <p align="center"><b>MOST USED LANGUAGES & SKILLS PROFILE</b></p>
 
-</div>
-
----
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://geps.dev/progress/85?dangerColor=ec4899&warningColor=ec4899&color=ec4899" width="300" />
+    <br><br>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://geps.dev/progress/75?dangerColor=ec4899&warningColor=ec4899&color=ec4899" width="300" />
+    <br><br>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://geps.dev/progress/70?dangerColor=ec4899&warningColor=ec4899&color=ec4899" width="300" />
+    <br><br>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://geps.dev/progress/60?dangerColor=ec4899&warningColor=ec4899&color=ec4899" width="300" />
+  </p>
 
 ### /04 [CONNECT] 📬
 
